@@ -1,4 +1,4 @@
-#### This repository contains details of dataset used in FlakReplay and related supplemental material.
+#### This repository contains details of dataset used in FlakeEcho and related supplemental material.
 
 <!--
 **FlakReplay/FlakReplay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
