@@ -1,10 +1,12 @@
 # FlakeEcho
 
-## [HomePage of FlakeEcho: Abstract, Dataset, Workflow and RunTime Data](https://FlakeEcho.github.io/)
+This repository contains the source code of reproducing tool FlakeEcho and link for the homepage.
 
-This repository contains the reproducing tool FlakeEcho and the flaky tests evaluated in our experiments.
+## Link for HomePage: [<u>https://FlakeEcho.github.io/index.html</u>](https://FlakeEcho.github.io/)
 
-### How to use FlakeEcho
+This link contains the detailed information of the dataset evaluated in our experiments.
+
+## How to use FlakeEcho
 1. Prerequisites
     - Android emulator with API 30 with EdXposed Framework installed
     - Android Studio(Hedgehog | 2023.1.1 Canary 10) with YAMP plugin installed
