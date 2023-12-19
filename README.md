@@ -2,7 +2,7 @@
 
 This repository contains the source code of reproducing tool FlakeEcho and link for the homepage.
 
-## Link for HomePage: [<u>https://FlakeEcho.github.io/index.html</u>](https://FlakeEcho.github.io/)
+## Link for Dataset: [<u>https://FlakeEcho.github.io/index.html</u>](https://FlakeEcho.github.io/)
 
 This link contains the detailed information of the dataset evaluated in our experiments.
 
